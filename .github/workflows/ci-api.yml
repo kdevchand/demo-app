@@ -1,4 +1,4 @@
-name: Build and Push Docker Image to Azure
+name: Build and Push API Gateway Image to Azure
 
 on:
   push:
